@@ -171,15 +171,15 @@ EAM_0.2 <- ggplot(data0.2, aes(x=n))+
     
   plot_grid( EQM_0.2, EAM_0.2)
   
-  ###############################################################################
+###############################################################################
   
-  # Gerarating Table with the erros
-  dados_lat <- dados %>% filter(n %in% c(20,50,100,500)) %>% 
-    filter(percentil %in% c(0.05,0.2,0.3,0.5)) %>% 
-    arrange(n, percentil)
+# Gerarating Table with the erros
+dados_lat <- dados %>% filter(n %in% c(20,50,100,500)) %>% 
+  filter(percentil %in% c(0.05,0.2,0.3,0.5)) %>% 
+  arrange(n, percentil)
 
   
-  dados_lat <- dados_lat[,c(7,8,1,2,3,4,5,6)] 
+dados_lat <- dados_lat[,c(7,8,1,2,3,4,5,6)] 
   
-  xtable(dados_lat2)
+xtable(dados_lat2)
   
