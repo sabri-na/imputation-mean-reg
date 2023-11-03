@@ -11,5 +11,6 @@ Nesse projeto foram utilizadas os seguintes pacotes no código em R: gplot2, rea
 
 ### Instruções de Uso e Descrição: 
 1. Os dados simulados e as imputações foram gerados em *imputation_mean_regression.R*;
-2. Os gráficos que comparam os métodos diferente de imputações estão em *graphics_imputation.R*;
+2. Os gráficos que comparam os métodos diferentes de imputações estão em *graphics_imputation.R*;
 3. O arquivo em *excel* com os resultados dos dados simulados em (1) é o *data_imput.xlsx*.
+4. O projeto de Iniciação Científica que descreve de maneira mais detalhada essa pesquisa está em *search_pibic.pdf*
