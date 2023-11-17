@@ -26,7 +26,7 @@ A análise de dados incompletos pode gerar vieses de seleção, principalmente s
 que respondem e estão na análise são sistematicamenete diferentes daqueles que optaram
 pela não resposta (ERCOLE et al., 2010). Ademais, lidar com dados incompletos produz
 menor eficiência nas estimativas, já que a amostra é reduzida (NUNES, 2007). Sendo
-assim, uma análise incompleta pode causar dependências que impactam os estudo de
+assim, uma análise incompleta pode causar dependências que impactam os estudos de
 características amostrais e na tomada de decisões (CARVALHO, 2017).
 
 Para sanar esse problema, a imputação de dados visa substituir os valores ausentes por dados que
