@@ -55,7 +55,7 @@ na amostra.
 
 Para produzir diferentes cenários de imputação, as amostras geradas foram variadas
 segundo seu tamanho (n) e sua porcentagem de dados faltantes (df’s), os resultados dessas
-variações são apresentados na Tabela 1:
+variações são apresentados na Tabela 1
 
 ### Instalação:
 Nesse projeto foram utilizadas os seguintes pacotes no código em R: gplot2, readxl, dplyr, xtable.
