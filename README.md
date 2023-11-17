@@ -9,8 +9,7 @@ simples teve melhor performance para diferentes cenários de amostras.
 ## Contexto e Objetivo:
 É comum ter que
 lidar com dados que tenham valores ausentes em sua composição. Isso pode decorrer de
-vários fatores como falhas humanas no processo de coleta de dados, defeitos operacio-
-nais em equipamentos ou ferramentas (RIBEIRO, 2015), alto custo na coleta de dados
+vários fatores como falhas humanas no processo de coleta de dados, defeitos operacionais em equipamentos ou ferramentas (RIBEIRO, 2015), alto custo na coleta de dados
 (MYRTVEIT et. al., 2001) e até mesmo em decorrência de participantes de pesquisa que
 optam por não responder algum item de um questionário (ALLISON, 2001).
 
@@ -57,33 +56,7 @@ Para produzir diferentes cenários de imputação, as amostras geradas foram var
 segundo seu tamanho (n) e sua porcentagem de dados faltantes (df’s), os resultados dessas
 variações são apresentados na Tabela 1
 
-\begin{table}[ht]
-\centering
-\caption{Valores dos EQM's e EAM's para as imputações com diferentes tamanhos de amostras e proporções de dados faltantes}
-\begin{tabular}{rrrrrrrrr}
-  \hline
- N & \% df's  & EQM & EQM - média & EQM - RL & EAM & EAM - média & EAM - RL \\ 
-  \hline
-20 & 5 & 19.68 & 20.08 & 19.78 & 3.53 & 3.57 & 3.54 \\ 
-   20 & 20 & 20.12 & 21.18 & 20.53 & 3.57 & 3.66 & 3.60 \\ 
-   20 & 30 & 20.22 & 21.25 & 20.75 & 3.56 & 3.66 & 3.61 \\ 
-  20 & 50 & 19.78 & 21.41 & 21.13 & 3.54 & 3.68 & 3.64 \\ 
-  50 & 5 & 23.06 & 23.47 & 23.17 & 3.84 & 3.87 & 3.84 \\ 
-  50 & 20 & 22.90 & 24.09 & 23.33 & 3.82 & 3.92 & 3.86 \\ 
-  50 & 30 & 23.13 & 24.58 & 23.77 & 3.83 & 3.96 & 3.89 \\ 
-  50 & 50 & 22.92 & 24.77 & 24.06 & 3.81 & 3.96 & 3.90 \\ 
-  100 & 5 & 23.89 & 24.39 & 23.99 & 3.90 & 3.94 & 3.91 \\ 
-  100 & 20 & 23.94 & 25.19 & 24.40 & 3.91 & 4.01 & 3.94 \\ 
-  100 & 30 & 24.06 & 25.64 & 24.73 & 3.91 & 4.04 & 3.96 \\ 
-  100 & 50 & 23.79 & 25.59 & 24.90 & 3.90 & 4.04 & 3.99 \\ 
-  500 & 5 & 24.78 & 25.30 & 24.90 & 3.97 & 4.01 & 3.98 \\ 
-  500 & 20 & 24.78 & 26.10 & 25.23 & 3.97 & 4.07 & 4.01 \\ 
-  500 & 30 & 24.89 & 26.50 & 25.57 & 3.98 & 4.11 & 4.04 \\ 
-  500 & 50 & 24.77 & 26.66 & 25.89 & 3.97 & 4.12 & 4.06 \\ 
-   \hline
- \label{tab1}
-\end{tabular}
-\end{table}
+
 
 ### Instalação:
 Nesse projeto foram utilizadas os seguintes pacotes no código em R: gplot2, readxl, dplyr, xtable.
