@@ -70,7 +70,7 @@ amostras maiores. Identifica-se que as menores medidas de erro são para a amost
 tamanho 20, com 5% de dados faltantes (EQM - média = 20.8 e EQM - RL = 19.78).
 Observa-se também que para todos os tamanhos de amostra (20, 50, 100 e 500) os erros
 apresentam um padrão: para todos os casos, em todas as proporções de dados faltantes,
-o erro quadrático médio e o erro absoluto médio apresentam maiores valores para a im-
+o erro quadrático médio e o erro absoluto médio apresentam maiores valores para a im
 putação por média, enquanto que os EQM’s e os EAM’s para a imputação por regressão
 são valores intermediários entre os erros pela imputação por média e os erros da amos-
 tra com dados completos. Isso indica a melhor performance da imputação por regressão
