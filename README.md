@@ -6,7 +6,7 @@ conceitos muito importantes e disseminados na estatística, a média e a regress
 Através de simulações em R, foi obtido resultados em que a imputação por regressão linear
 simples teve melhor performance para diferentes cenários de amostras.
 
-## Contexto:
+## Contexto e Objetivo:
 É comum ter que
 lidar com dados que tenham valores ausentes em sua composição. Isso pode decorrer de
 vários fatores como falhas humanas no processo de coleta de dados, defeitos operacio-
@@ -35,10 +35,27 @@ esse estudo se propõe a analisar e comparar esses dois tipos de técnicas na im
 A simulação consistiu em gerar diferentes amostras variando seu tamanho (20, 50, 100
 e 200) e sua porcentagem de dados faltantes (5%, 20%, 30%, 50%) a fim de se comparar
 a imputação para diferentes cenários. As amostras constituíram-se de quatro variáveis,
-sendo três variáveis explicativas e a variável resposta :
+sendo três variáveis explicativas e a variável resposta.
 
-- $x_1$
+Nesse processo foram utilizadas 1000 réplicas de Monte Carlo para gerar cada amostra,
+e para aferir as imputações foram calculadas as medidas de Erro Quadrático Médio (EQM) e  Erro Absoluto Médio (EAM), com base nos
+valores originais dos dados completos. Essas medidas foram baseadas na média das 1000
+réplicas de Monte Carlo.
 
+Além disso, os valores de EQM e EAM do modelo considerando os dados completos
+foram calculados com o intuito de comparar o desempenho dos dois métodos de imputação
+adotados nesse estudo.
+
+
+## Resultados e Conclusão:
+
+No gráfico de linhas da Figura 1, fixou-se o tamanho da amostra igual a 100 e observou-
+se o comportamento do EQM e EAM para as diferentes porcentagens de dados faltantes
+na amostra. 
+
+Para produzir diferentes cenários de imputação, as amostras geradas foram variadas
+segundo seu tamanho (n) e sua porcentagem de dados faltantes (df’s), os resultados dessas
+variações são apresentados na Tabela 1:
 
 ### Instalação:
 Nesse projeto foram utilizadas os seguintes pacotes no código em R: gplot2, readxl, dplyr, xtable.
