@@ -162,7 +162,7 @@ aumentar a acurácia das estimativas. 2015.
 [12] RUBIN, Donald B. Inference and missing data. Biometrika, 1976, 63.3: 581-592.
 
 [13] SHIMAKURA, Silvia. Modelo de regressão linear simples. Notes: CE003 - Estatística
-II, 2006. Disponível em: http://leg.ufpr.br/ silvia/CE003/node81.html.
+II, 2006. Disponível em: http://leg.ufpr.br/silvia/CE003/node81.html.
 
 
 
