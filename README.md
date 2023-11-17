@@ -6,6 +6,40 @@ conceitos muito importantes e disseminados na estatística, a média e a regress
 Através de simulações em R, foi obtido resultados em que a imputação por regressão linear
 simples teve melhor performance para diferentes cenários de amostras.
 
+## Contexto:
+É comum ter que
+lidar com dados que tenham valores ausentes em sua composição. Isso pode decorrer de
+vários fatores como falhas humanas no processo de coleta de dados, defeitos operacio-
+nais em equipamentos ou ferramentas (RIBEIRO, 2015), alto custo na coleta de dados
+(MYRTVEIT et. al., 2001) e até mesmo em decorrência de participantes de pesquisa que
+optam por não responder algum item de um questionário (ALLISON, 2001).
+
+A análise de dados incompletos pode gerar vieses de seleção, principalmente se os indivíduos
+que respondem e estão na análise são sistematicamenete diferentes daqueles que optaram
+pela não resposta (ERCOLE et al., 2010). Ademais, lidar com dados incompletos produz
+menor eficiência nas estimativas, já que a amostra é reduzida (NUNES, 2007). Sendo
+assim, uma análise incompleta pode causar dependências que impactam os estudo de
+características amostrais e na tomada de decisões (CARVALHO, 2017).
+
+Para sanar esse problema, a imputação de dados visa substituir os valores ausentes por dados que
+façam sentido.
+
+Na imputação única, os dados ausentes são preenchidos uma única vez
+para se obter o banco de dados completo. Dentro desse escopo, alguns dos métodos
+existentes são a imputação pela média e a imputação por regressão linear. Dessa forma,
+esse estudo se propõe a analisar e comparar esses dois tipos de técnicas na imputação
+única, analisando dados simulados com os referentes métodos aplicados.
+
+## Metodologia:
+
+A simulação consistiu em gerar diferentes amostras variando seu tamanho (20, 50, 100
+e 200) e sua porcentagem de dados faltantes (5%, 20%, 30%, 50%) a fim de se comparar
+a imputação para diferentes cenários. As amostras constituíram-se de quatro variáveis,
+sendo três variáveis explicativas e a variável resposta :
+
+- $x_1$
+
+
 ### Instalação:
 Nesse projeto foram utilizadas os seguintes pacotes no código em R: gplot2, readxl, dplyr, xtable.
 
