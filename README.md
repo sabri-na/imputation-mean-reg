@@ -63,7 +63,7 @@ variações são apresentados na seguinte Tabela:
 
 <img 
   src="/plots/tabela1.PNG"
-  height = 500>
+  height = 400>
 
 Percebe-se, primeiramente, que valores dos erros são maiores para as
 amostras maiores. Identifica-se que as menores medidas de erro são para a amostra de
