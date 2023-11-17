@@ -61,7 +61,9 @@ Para produzir diferentes cenários de imputação, as amostras geradas foram var
 segundo seu tamanho (n) e sua porcentagem de dados faltantes (df’s), os resultados dessas
 variações são apresentados na seguinte Tabela:
 
-<img src="/plots/tabela1.PNG">
+<img 
+  src="/plots/tabela1.PNG"
+  height = 200>
 
 Percebe-se, primeiramente, que valores dos erros são maiores para as
 amostras maiores. Identifica-se que as menores medidas de erro são para a amostra de
