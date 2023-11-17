@@ -120,5 +120,36 @@ irá resultar em uma imputação pela média, pois o intecepto de um modelo line
 covariáveis é, na realidade, a média. Assim, pode-se considerar que a imputação pela
 média é um caso particular da imputação por regressão.
 
+## Referências:
+
+[1] ALLISON, Paul D. Missing data. Sage publications, 2001. 
+
+[2] CARVALHO, Melissa Mello. Dados faltantes em análises: uma revisão sobre méto-
+dos estatísticos flexíveis a incompletude. In: II Simpósio de Métodos Numéricos em
+Engenharia. 2017.
+
+[3] CASTRO, Isabela Queirós. Uma aplicação de métodos de imputação no estudo de
+fatores associados ao baixo peso ao nascer. Monografia. Universidade Federal de Juiz
+de Fora, Juiz de Fora, 2014.
+
+[4] ENGELS, Jean Mundahl; DIEHR, Paula. Imputation of missing longitudinal data:
+a comparison of methods. Journal of clinical epidemiology, 2003.
+
+[5] ERCOLE, Flávia Falci; CARNEIRO, Mariângela; CHIANCA Tânia Couto M.; DU-
+ARTE, Denise. Efeito da imputação de dados faltantes em banco de dados de infecção
+de sítio cirúrgico em pacientes ortopédicos em Belo Horizonte. 2010.
+[6] MARTINS, Maria Eugénia Graça. Regressão linear simples. Revista de Ciência Ele-
+mentar, 2019, 7.3.
+[7] MORETTIN, Pedro A.; BUSSAB, Wilton O. Estatística básica. Saraiva Educação
+SA, 2017.
+[8] MYRTVEIT, Ingunn; STENSRUD, Erik; OLSSON, Ulf H. . Analyzing data sets with
+missing data: An empirical evaluation of imputation methods and likelihood-based
+methods. IEEE Transactions on Software Engineering, 2001.
+[9] NUNES, Luciana Neves. Métodos de imputação de dados aplicados na área da saúde.
+2007.
+[10] RIBEIRO, Elisalvo Alves, et al. Imputação de dados faltantes via algoritmo EM
+e rede neural MLP com o método de estimativa de máxima verossimilhança para
+aumentar a acurácia das estimativas. 2015
+
 
 
