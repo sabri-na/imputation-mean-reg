@@ -60,18 +60,18 @@ adotados nesse estudo.
 Para produzir diferentes cenários de imputação, as amostras geradas foram variadas
 segundo seu tamanho (n) e sua porcentagem de dados faltantes (df’s), os resultados dessas
 variações são apresentados na Tabela 1
-<img src="/imagens/tabela1.PNG">
+<img src="/plots/tabela1.PNG">
 
 
 No gráfico de linhas a seguir, fixou-se o tamanho da amostra igual a 100 e observou-
 se o comportamento do EQM e EAM para as diferentes porcentagens de dados faltantes
 na amostra. 
 
-<img src="/imagens/grafico2.PNG">
+<img src="/plots/grafico2.PNG">
 
 No próximo gráfico é mostrado o comportamento do EQM e do EAM quando há 20% dos dados ausentes para diferentes tamanhos de amostras. 
 
-<img src="/imagens/grafico1.PNG">
+<img src="/plots/grafico1.PNG">
 
 
 
