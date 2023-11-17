@@ -82,7 +82,8 @@ No gráfico de linhas a seguir, fixou-se o tamanho da amostra igual a 100 e obse
 se o comportamento do EQM e EAM para as diferentes porcentagens de dados faltantes
 na amostra. 
 
-<img src="/plots/grafico2.PNG">
+<img src="/plots/grafico2.PNG"
+  height = 400>
 
 O comportamento para as duas medidas de erro se mostra
 bastante similar. É possível verificar que a linha azul, que representa a imputação pela
@@ -95,7 +96,8 @@ amostra de tamanho 100, com diferentes percentis de dados ausentes.
 
 No próximo gráfico é mostrado o comportamento do EQM e do EAM quando há 20% dos dados ausentes para diferentes tamanhos de amostras. 
 
-<img src="/plots/grafico1.PNG">
+<img src="/plots/grafico1.PNG"
+  height = 400>
 
 Vê-se
 que ambos gráficos para os diferentes erros possuem comportamentos muito semelhantes.
