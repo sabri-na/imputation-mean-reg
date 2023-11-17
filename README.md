@@ -138,18 +138,31 @@ a comparison of methods. Journal of clinical epidemiology, 2003.
 [5] ERCOLE, Flávia Falci; CARNEIRO, Mariângela; CHIANCA Tânia Couto M.; DU-
 ARTE, Denise. Efeito da imputação de dados faltantes em banco de dados de infecção
 de sítio cirúrgico em pacientes ortopédicos em Belo Horizonte. 2010.
+
 [6] MARTINS, Maria Eugénia Graça. Regressão linear simples. Revista de Ciência Ele-
 mentar, 2019, 7.3.
+
 [7] MORETTIN, Pedro A.; BUSSAB, Wilton O. Estatística básica. Saraiva Educação
 SA, 2017.
+
 [8] MYRTVEIT, Ingunn; STENSRUD, Erik; OLSSON, Ulf H. . Analyzing data sets with
 missing data: An empirical evaluation of imputation methods and likelihood-based
 methods. IEEE Transactions on Software Engineering, 2001.
+
 [9] NUNES, Luciana Neves. Métodos de imputação de dados aplicados na área da saúde.
 2007.
+
 [10] RIBEIRO, Elisalvo Alves, et al. Imputação de dados faltantes via algoritmo EM
 e rede neural MLP com o método de estimativa de máxima verossimilhança para
-aumentar a acurácia das estimativas. 2015
+aumentar a acurácia das estimativas. 2015.
+
+[11] RODRIGUES, Sandra Cristina Antunes. Modelo de regressão linear e suas aplicações.
+2012. PhD Thesis. Universidade da Beira Interior (Portugal).
+
+[12] RUBIN, Donald B. Inference and missing data. Biometrika, 1976, 63.3: 581-592.
+
+[13] SHIMAKURA, Silvia. Modelo de regressão linear simples. Notes: CE003 - Estatística
+II, 2006. Disponível em: http://leg.ufpr.br/ silvia/CE003/node81.html.
 
 
 
