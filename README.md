@@ -108,8 +108,7 @@ e EAM quando comparados com aqueles erros obtidos pela imputação por regressã
 
 ## Conclusão:
 
-Através das simulações, foi possível verificar que para vários cenários, onde se foi es-
-tabelecido diferentes tamanhos de amostras e diferentes proporções de dados faltantes,
+Através das simulações, foi possível verificar que para vários cenários, onde se foi estabelecido diferentes tamanhos de amostras e diferentes proporções de dados faltantes,
 chegando até um caso extremo de 50% de df’s, a imputação por média se mostrou menos
 eficiente do que a imputação por regressão, qualquer que seja o tamanho da amostra ou
 porcentagem de dados faltantes.
